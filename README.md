@@ -11,8 +11,8 @@
 <h3 align='center'>⭐️ Contact⭐️️️</h3>
 
 
-<a href="https://instagram.com/sungstonemin">
+<a href="https://instagram.com/sungstonemin" style="align: center;">
     <img 
         src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/sungstonemin"
-        style="height : auto; margin-left : 10px; margin-right : 10px; align: center"/>
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
