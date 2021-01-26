@@ -1,4 +1,5 @@
-<p align='center'>Don`t give up</p>
+
+<p align='center'><h4>Don`t give up</h4></p>
 <h3 align='center'>✔️ Tech Stack ✔️</h3> 
 <p align="center">
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" />&nbsp
