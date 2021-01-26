@@ -4,7 +4,7 @@
 <p align="center">
     <a href="https://velog.io/@jkl1545">
         <img 
-            src="http://img.shields.io/badge/-Velog-white?style=flat&logo=Blogger&logoColor=white" />
+            src="http://img.shields.io/badge/-Velog-black?style=flat&logo=Blogger&logoColor=white" />
     </a>
 </P>
 <hr>
