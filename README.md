@@ -1,7 +1,7 @@
 ### HI 👋 , I'm SungSeokMin && Happy Developer
 <a href="https://velog.io/@jkl1545">
     <img 
-        src="http://img.shields.io/badge/-Velog-000000?style=flat&logo=Blogger&link=https://velog.io/@jkl1545"
+        src="http://img.shields.io/badge/-Velog-white?style=flat&logo=Blogger&link=https://velog.io/@jkl1545"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
