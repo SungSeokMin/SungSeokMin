@@ -6,10 +6,11 @@
 <img src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=black" />&nbsp
 <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white" />&nbsp
 <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=black" />&nbsp
-</P
+</P>
 
 <h3 align='center'>⭐️ Contact⭐️️️</h3>
-<br>
+
+
 <a href="https://instagram.com/sungstonemin">
     <img 
         src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/sungstonemin"
