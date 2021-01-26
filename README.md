@@ -1,4 +1,3 @@
-
 <h2 align='center'>HI 👋, I'm SungSeokMin</h2>
 
 <h3 align='center'>✔️ Tech Stack ✔️</h3> 
