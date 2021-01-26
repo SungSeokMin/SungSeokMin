@@ -1,7 +1,7 @@
 ### HI 👋 , I'm SungSeokMin && Happy Developer
 <a href="https://velog.io/@jkl1545">
     <img 
-        src="http://img.shields.io/badge/-Internet Archive-000000?style=flat&logo=Internet Archive&link=https://instagram.com/sungstonemin"
+        src="http://img.shields.io/badge/-Velog-000000?style=flat&logo=Bolgger&link=https://velog.io/@jkl1545"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
