@@ -6,6 +6,10 @@
         <img 
             src="http://img.shields.io/badge/-Velog-green?style=flat&logo=Blogger&logoColor=white" />
     </a>
+    <a href="https://github.io/SungSeokMin">
+        <img 
+            src="http://img.shields.io/badge/-github-white?style=flat&logo=GitHub&logoColor=white" />
+    </a>
 </P>
 <hr>
 
