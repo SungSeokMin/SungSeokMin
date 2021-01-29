@@ -8,7 +8,7 @@
     </a>
     <a href="https://sungseokmin.github.io">
         <img 
-            src="http://img.shields.io/badge/-github-181717?style=flat&logo=GitHub&logoColor=white" />
+            src="http://img.shields.io/badge/-github.io-181717?style=flat&logo=GitHub&logoColor=white" />
     </a>
 </P>
 <hr>
@@ -36,7 +36,6 @@
 <p align="center">
 <a href="https://instagram.com/sungstonemin">
     <img 
-        src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/sungstonemin"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/sungstonemin" />
 </a>
 </p>
