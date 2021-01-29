@@ -8,7 +8,7 @@
     </a>
     <a href="https://github.io/SungSeokMin">
         <img 
-            src="http://img.shields.io/badge/-github-white?style=flat&logo=GitHub&logoColor=white" />
+            src="http://img.shields.io/badge/-github-white?style=flat&logo=GitHub&logoColor=black" />
     </a>
 </P>
 <hr>
