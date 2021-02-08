@@ -25,7 +25,7 @@
 
 <h3 align='center'>⚒ Tools ⚒</h3> 
 <p align="center">
-<img src="https://img.shields.io/badge/-VisualStudioCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white" />&nbsp
+<img src="https://img.shields.io/badge/-Visa-007ACC?style=flat-square&logo=Visa&logoColor=white" />&nbsp
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />&nbsp
 </P>
 <hr>
