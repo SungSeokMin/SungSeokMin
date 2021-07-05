@@ -1,4 +1,4 @@
-### HI 👋 , I'm SungSeokMin && Happy Developer
+### HI 👋 , I'm SungSeokMin
 
 <h3 align='center'>☀️ My Blog ☀️</h3> 
 <p align="center">
