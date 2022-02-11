@@ -32,7 +32,7 @@
   </div>
 </div>
 
-  <hr>
+  <br>
 
 <div align="center" style="text-align:center">
   
