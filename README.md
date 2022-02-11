@@ -12,7 +12,9 @@
     <h3 align='center'>☀️ Me ☀️</h3> 
       <p align="center">
         
-      [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jkl1545)](https://velog.io/@jkl1545)
+     <a href="https://velog.io/@jkl1545">
+        <img src="http://img.shields.io/badge/-Velog-green?style=flat&logo=Blogger&logoColor=white" />
+      </a>
         
        <a href="https://instagram.com/sungstonemin">
         <img src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/sungstonemin" />
