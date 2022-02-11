@@ -32,8 +32,7 @@
   </div>
 </div>
 
-  <br>
-  <br>
+  <hr>
 
 <div align="center" style="text-align:center">
   
@@ -41,7 +40,6 @@
   
 </div>
 
-  <br>
   <br>
 
 <div style="width: 100%; margin-top: 50px;">
