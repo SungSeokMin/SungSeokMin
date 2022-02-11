@@ -1,3 +1,5 @@
+
+<div style="width: 100%, height: 100%; display: flex; flex-direction: column">
 <div style="width: 100%; display: flex; flex-direction: column; align-items: center;">
 <h1>HI 👋 , I'm SungSeokMin</h1>
 
@@ -35,4 +37,5 @@
 
 <div style="width: 100%; margin-top: 50px;">
   <img src="https://github-readme-stats.vercel.app/api?username=SungSeokMin&theme=dracula&show_icons=true" style="width: 100%; height: 250px" />
+</div>
 </div>
