@@ -19,7 +19,7 @@
       </a>
       </P>
   </div>
-  
+  <hr>
   <div>
     <h3 align='center'>🛠 Tech Stack 🛠</h3> 
     <p align="center">
@@ -27,14 +27,17 @@
       <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white" />&nbsp
     </P>
   </div>
-  
 </div>
+
+  <hr>
 
 <div align="center" style="text-align:center">
   
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jkl1545&slug=React-Query)](https://github.com/SungSeokMin/velog-readme-stats)
   
 </div>
+
+  <hr>
 
 <div style="width: 100%; margin-top: 50px;">
   <img src="https://github-readme-stats.vercel.app/api?username=SungSeokMin&theme=dracula&show_icons=true" style="width: 100%; height: 250px" />
