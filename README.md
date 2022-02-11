@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=header&text=Hi👋%20,I'm%20SeokMin&fontSize=70)
-<div style="width: 100%, height: 100%; display: flex; flex-direction: column">
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSungSeokMin&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-</div>
+<div style="width: 100%, height: 100%; display: flex; flex-direction: column">
+
 
 <div style="width: 100%; display: flex; justify-content: space-between">
   <div>
@@ -41,5 +42,6 @@
 
 <div style="width: 100%; margin-top: 50px;">
   <img src="https://github-readme-stats.vercel.app/api?username=SungSeokMin&theme=dracula&show_icons=true" style="width: 100%; height: 250px" />
+</div>
 </div>
 </div>
