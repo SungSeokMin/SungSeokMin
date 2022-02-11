@@ -22,7 +22,6 @@
   
   <br>
   <br>
-  <br>
   
   <div>
     <h3 align='center'>🛠 Tech Stack 🛠</h3> 
@@ -33,7 +32,8 @@
   </div>
 </div>
 
-  <hr>
+  <br>
+  <br>
 
 <div align="center" style="text-align:center">
   
@@ -41,7 +41,8 @@
   
 </div>
 
-  <hr>
+  <br>
+  <br>
 
 <div style="width: 100%; margin-top: 50px;">
   <img src="https://github-readme-stats.vercel.app/api?username=SungSeokMin&theme=dracula&show_icons=true" style="width: 100%; height: 250px" />
