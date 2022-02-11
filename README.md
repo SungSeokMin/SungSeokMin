@@ -9,14 +9,21 @@
 
 <div style="width: 100%; display: flex; justify-content: space-between">
   <div>
-    <h3 align='center'>☀️ My Blog ☀️</h3> 
+    <h3 align='center'>☀️ Me ☀️</h3> 
       <p align="center">
       <a href="https://velog.io/@jkl1545">
         <img src="http://img.shields.io/badge/-Velog-green?style=flat&logo=Blogger&logoColor=white" />
       </a>
       </P>
+  
+     <h3 align='center'>🔥 Contact🔥 </h3>
+    <p align="center">
+    <a href="https://instagram.com/sungstonemin">
+      <img src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/sungstonemin" />
+    </a>
+    </p>
   </div>
-
+  
   <div>
     <h3 align='center'>🛠 Tech Stack 🛠</h3> 
     <p align="center">
@@ -24,15 +31,7 @@
       <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white" />&nbsp
     </P>
   </div>
-
-  <div>
-    <h3 align='center'>🔥 Contact🔥 </h3>
-    <p align="center">
-    <a href="https://instagram.com/sungstonemin">
-      <img src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/sungstonemin" />
-    </a>
-    </p>
-  </div>
+  
 </div>
 
 <div align="center" style="text-align:center">
