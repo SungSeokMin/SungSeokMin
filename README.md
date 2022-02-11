@@ -11,9 +11,7 @@
   <div>
     <h3 align='center'>☀️ Me ☀️</h3> 
       <p align="center">
-      <a href="https://velog.io/@jkl1545">
-        <img src="http://img.shields.io/badge/-Velog-green?style=flat&logo=Blogger&logoColor=white" />
-      </a>
+      [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=hooomin)](https://velog.io/@jkl1545) 
        <a href="https://instagram.com/sungstonemin">
         <img src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/sungstonemin" />
       </a>
@@ -36,7 +34,7 @@
 
 <div align="center" style="text-align:center">
   
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jkl1545&slug=React-Query)](https://github.com/SungSeokMin/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jkl1545&slug=React-Query&color=dark)](https://github.com/SungSeokMin/velog-readme-stats)
   
 </div>
 
