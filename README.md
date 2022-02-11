@@ -37,7 +37,7 @@
 
 <div align="center" style="text-align:center">
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jkl1545&tag=React-Query)](https://velog.io/@jkl1545)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hooomin&tag=React-Query)](https://velog.io/@jkl1545)
   
 </div>
 
