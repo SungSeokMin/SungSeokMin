@@ -34,7 +34,7 @@
 
 <div align="center" style="text-align:center">
   
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jkl1545&slug=React-Query)](https://velog.io/@jkl1545/React-Query)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jkl1545&slug=React-Query&color=dark)](https://velog.io/@jkl1545/React-Query)
   
 </div>
 
