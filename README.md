@@ -37,11 +37,5 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jkl1545&slug=React-Query&color=dark)](https://velog.io/@jkl1545/React-Query)
   
 </div>
-
-  <br>
-
-<div style="width: 100%; margin-top: 50px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=SungSeokMin&theme=dracula&show_icons=true" style="width: 100%; height: 250px" />
-</div>
 </div>
 </div>
