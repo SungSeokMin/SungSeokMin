@@ -30,10 +30,9 @@
 <div align="center" style="text-align:center">
   <h3>📝 Study 📝</h3>
 
-
-<span style="font-size: 17px">
-<a href="https://github.com/funny-algorithm/algorithm-study/tree/master/seokmin">funny-algorithm</a> : 2022. 04. 15 ~
-</span>
+<a href="https://github.com/funny-algorithm/algorithm-study/tree/master/seokmin">
+  <img src="https://img.shields.io/badge/funny--algorithm-2022.%2004.%2015%20~-blue?style=flat-square"></img>
+</a>
 
 
 
@@ -44,7 +43,7 @@
 <div align="center" style="text-align:center">
   <h3>💻 Side Project 💻</h3>
 
-'-'
+  😅
 
 </div>
 
