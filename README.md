@@ -34,10 +34,9 @@
   <img src="https://img.shields.io/badge/funny--algorithm-2022.%2004.%2015%20~-blue?style=flat-square"></img>
 </a>
 
-
-
 </div>
 
+<br>
 <br>
 
 <div align="center" style="text-align:center">
