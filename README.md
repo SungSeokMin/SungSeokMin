@@ -42,7 +42,7 @@
 <div align="center" style="text-align:center">
   <h3>💻 Side Project 💻</h3>
 
-  😅
+<img src="https://img.shields.io/badge/Fittoo-2022.%2005.%2011%20~-blue?style=flat-square"></img>
 
 </div>
 
