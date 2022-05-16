@@ -40,7 +40,7 @@
   <h3>📝 Study 📝</h3>
 
 <a href="https://github.com/funny-algorithm/algorithm-study/tree/master/seokmin">
-  <img src="https://img.shields.io/badge/algorithm-2022.%2004.%2015%20~-C3E5AE?style=flat-square"></img>
+  <img src="https://img.shields.io/badge/Algorithm-2022.%2004.%2015%20~-C3E5AE?style=flat-square"></img>
 </a>
 
 </div>
