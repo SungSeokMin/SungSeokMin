@@ -30,7 +30,7 @@
 <div align="center" style="text-align:center">
   <h3>👨‍💻 Work Experience 👨‍💻</h3>
   <a href="https://www.billyo.co.kr/">
-    <img src="https://img.shields.io/badge/Billyo-2021.%2011.%2015%20~-E6BA95?style=for-the-badge"></img>
+    <img src="https://img.shields.io/badge/Billyo-2021.%2011.%2015%20~-C3E5AE?style=flat-square"></img>
   </a>
 </div>
 
@@ -40,7 +40,7 @@
   <h3>📝 Study 📝</h3>
 
 <a href="https://github.com/funny-algorithm/algorithm-study/tree/master/seokmin">
-  <img src="https://img.shields.io/badge/algorithm-2022.%2004.%2015%20~-E6BA95?style=for-the-badge"></img>
+  <img src="https://img.shields.io/badge/algorithm-2022.%2004.%2015%20~-C3E5AE?style=flat-square"></img>
 </a>
 
 </div>
@@ -51,7 +51,7 @@
 <div align="center" style="text-align:center">
   <h3>💻 Side Project 💻</h3>
   <a href="https://github.com/TeamSmalt/fittoo_web">
-    <img src="https://img.shields.io/badge/Fittoo-2022.%2005.%2011%20~-E6BA95?style=for-the-badge"></img>
+    <img src="https://img.shields.io/badge/Fittoo-2022.%2005.%2011%20~-C3E5AE?style=flat-square"></img>
   </a>
 
 </div>
