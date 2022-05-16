@@ -28,10 +28,19 @@
 <br>
 
 <div align="center" style="text-align:center">
+  <h3>👨‍💻 Work Experience 👨‍💻</h3>
+  <a href="https://www.billyo.co.kr/">
+    <img src="https://img.shields.io/badge/Billyo-2021.%2011.%2015%20~-E6BA95?style=for-the-badge"></img>
+  </a>
+</div>
+
+<br>
+
+<div align="center" style="text-align:center">
   <h3>📝 Study 📝</h3>
 
 <a href="https://github.com/funny-algorithm/algorithm-study/tree/master/seokmin">
-  <img src="https://img.shields.io/badge/funny--algorithm-2022.%2004.%2015%20~-blue?style=flat-square"></img>
+  <img src="https://img.shields.io/badge/algorithm-2022.%2004.%2015%20~-E6BA95?style=for-the-badge"></img>
 </a>
 
 </div>
@@ -41,8 +50,9 @@
 
 <div align="center" style="text-align:center">
   <h3>💻 Side Project 💻</h3>
-
-<img src="https://img.shields.io/badge/Fittoo-2022.%2005.%2011%20~-blue?style=flat-square"></img>
+  <a href="https://github.com/TeamSmalt/fittoo_web">
+    <img src="https://img.shields.io/badge/Fittoo-2022.%2005.%2011%20~-E6BA95?style=for-the-badge"></img>
+  </a>
 
 </div>
 
@@ -50,7 +60,6 @@
 
 <div align="center" style="text-align:center">
   <h3>🙌 Popular Post 🙌</h3>
-
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jkl1545&slug=React-Query&color=dark)](https://velog.io/@jkl1545/React-Query)
 
