@@ -14,8 +14,6 @@
     </P>
 </div>
 
-<br>
-
 <div>
   <h3>🛠 Tech Stack 🛠</h3> 
   <p>
@@ -36,8 +34,6 @@
 
 </div>
 
-<br>
-
 <div>
   <h3>📝 Study 📝</h3>
 
@@ -47,9 +43,6 @@
 
 </div>
 
-<br>
-<br>
-
 <div>
   <h3>💻 Side Project 💻</h3>
 
@@ -58,8 +51,6 @@
 | <a href="https://github.com/TeamSmalt/fittoo_web" style="color: #fff">Fittoo</a> | 2022. 05. 11 ~ |
 
 </div>
-
-<br>
 
 <div>
   <h3>🙌 Popular Post 🙌</h3>
