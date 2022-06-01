@@ -23,8 +23,6 @@
   </P>
 </div>
 
-<br>
-
 <div>
   <h3>👨‍💻 Work Experience 👨‍💻</h3>
 
