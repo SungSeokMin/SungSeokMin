@@ -27,7 +27,7 @@
   <h3>👨‍💻 Work Experience 👨‍💻</h3>
 
 | 이름   | 기간           |
-| ------ | -------------- |
+| ---   | :--------------: |
 | Billyo | 2021. 11. 15 ~ |
 
 </div>
@@ -35,9 +35,10 @@
 <div>
   <h3>📝 Study 📝</h3>
 
-| 이름                                                                                                 | 기간           |
-| ---------------------------------------------------------------------------------------------------- | -------------- |
-| <a href="https://github.com/funny-algorithm/algorithm-study/tree/master/seokmin">Funny-algorithm</a> | 2022. 04. 15 ~ |
+| 이름  |  기간 |
+| -- | :---: |
+| <a href="https://github.com/funny-algorithm/algorithm-study/tree/master/seokmin">Funny-algorithm</a>                                                  | 2022. 04. 15 ~ |
+| <a href="https://github.com/SungSeokMin/javascript-deep-dive">Deep-Dive</a> | 2022. 06. 14 ~ |
 
 </div>
 
