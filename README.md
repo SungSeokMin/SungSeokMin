@@ -4,7 +4,7 @@
   <h3>☀️ Me ☀️</h3> 
     <p> 
     <a href="https://velog.io/@jkl1545">
-      <img src="http://img.shields.io/badge/-Velog-green?style=flat&logo=Blogger&logoColor=white" />
+      <img src="http://img.shields.io/badge/-Velog-green?style=flat&logo=velog&logoColor=white" />
     </a>
       <a href="https://instagram.com/sungstonemin">
       <img src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/sungstonemin" />
