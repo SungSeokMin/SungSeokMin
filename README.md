@@ -31,16 +31,6 @@
 </div>
 
 <div>
-  <h3>📝 Study 📝</h3>
-
-| 이름  |  시작일 |
-| :-- | :--- |
-| <a href="https://github.com/funny-algorithm/algorithm-study/tree/master/seokmin">Funny-algorithm</a>                                                  | 2022. 04. 15 |
-| <a href="https://github.com/SungSeokMin/javascript-deep-dive">Deep-Dive</a> | 2022. 06. 14 |
-
-</div>
-
-<div>
   <h3>💻 Project 💻</h3>
 
 | 이름                                                                             | 기간           |
