@@ -38,6 +38,6 @@
 <div>
   <h3>🙌 Popular Post 🙌</h3>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jkl1545&slug=React-Query&color=dark)](https://velog.io/@jkl1545/React-Query)
+[리액트 쿼리](https://velog.io/@jkl1545/React-Query)
 
 </div>
