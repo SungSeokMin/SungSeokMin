@@ -38,6 +38,6 @@
 <div>
   <h3>🙌 Popular Post 🙌</h3>
 
-<a href="https://velog.io/@jkl1545/React-Query" style="text-decoration: none !important;">📍 리액트 쿼리</a>
+<a href="https://velog.io/@jkl1545/React-Query" style="text-decoration: none !important">📍 리액트 쿼리</a>
 
 </div>
