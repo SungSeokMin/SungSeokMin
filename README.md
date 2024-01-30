@@ -14,12 +14,17 @@
 
 <div>
   <h3>🛠 Tech Stack 🛠</h3> 
-  <p>
+  <div>
+    <bold>Web: </bold>
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/-React-3178C6?style=flat-square&logo=React&logoColor=white" />&nbsp
+  </div>
+
+  <div>
+    <bold>App: </bold>
     <img src="https://img.shields.io/badge/-dart-1B2834?style=flat-square&logo=dart&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/-flutter-065B9A?style=flat-square&logo=Flutter&logoColor=white" />&nbsp
-  </P>
+    <img src="https://img.shields.io/badge/-flutter-1B2834?style=flat-square&logo=Flutter&logoColor=white" />&nbsp
+  </div>
 </div>
 
 <div>
@@ -32,13 +37,9 @@
 </div>
 
 <div>
-  <h3>💻 Project 💻</h3>
-  -
-</div>
-
-<div>
   <h3>🙌 Popular Post 🙌</h3>
 
   [📍 리액트 쿼리](https://velog.io/@jkl1545/React-Query)
+  [📍 객체지향 SOLID 5원칙](https://velog.io/@jkl1545/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-SOLID-5%EC%9B%90%EC%B9%99)
 
 </div>
