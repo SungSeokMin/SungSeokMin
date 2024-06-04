@@ -18,12 +18,8 @@
     <bold>Web: </bold>
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/-React-3178C6?style=flat-square&logo=React&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=nextdotjs&logoColor=white" />&nbsp
   </div>
-
-  <div>
-    <bold>App: </bold>
-    <img src="https://img.shields.io/badge/-dart-1B2834?style=flat-square&logo=dart&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/-flutter-1B2834?style=flat-square&logo=Flutter&logoColor=white" />&nbsp
   </div>
 </div>
 
