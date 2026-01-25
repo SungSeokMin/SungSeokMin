@@ -35,18 +35,14 @@
 
 | 이름   | 기간           |
 | :----- | :------------- |
-| Billyo | 2021. 11. 15 ~ |
+| Billyo | 2021. 11. 15 ~ 2025. 05. 02 |
 
 </div>
 
 <div>
-  <h3>🙌 Popular Post 🙌</h3>
+  <h3>🙌 Post 🙌</h3>
 
   <div>
     <a href="https://velog.io/@jkl1545/React-Query">📍 리액트 쿼리</a>
-  </div>
-
-  <div>
-    <a href="https://velog.io/@jkl1545/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-SOLID-5%EC%9B%90%EC%B9%99">📍 객체지향 SOLID 5원칙</a>
   </div>
 </div>
