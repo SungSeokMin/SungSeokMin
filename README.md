@@ -24,7 +24,8 @@
     <bold>Back End: </bold>
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/-NestJS-000000?style=flat-square&logo=NestJS&logoColor=EA2758" />&nbsp
-    
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
     
   </div>
   </div>
