@@ -6,9 +6,6 @@
     <a href="https://velog.io/@jkl1545">
       <img src="http://img.shields.io/badge/-Velog-green?style=flat&logo=velog&logoColor=white" />
     </a>
-      <a href="https://instagram.com/sungstonemin">
-      <img src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/sungstonemin" />
-    </a>
     </P>
 </div>
 
