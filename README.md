@@ -15,14 +15,11 @@
     <bold>Front End: </bold>
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/-React-3178C6?style=flat-square&logo=React&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=nextdotjs&logoColor=white" />&nbsp
   </div>
    <div>
     <bold>Back End: </bold>
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/-NestJS-000000?style=flat-square&logo=NestJS&logoColor=EA2758" />&nbsp
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
     
   </div>
   </div>
