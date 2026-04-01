@@ -12,15 +12,16 @@
 <div>
   <h3>🛠 Tech Stack 🛠</h3> 
   <div>
-    <bold>Front End: </bold>
+    <bold>Language: </bold>
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" />&nbsp
+  </div>
+  <div>
+    <bold>Front End: </bold>
     <img src="https://img.shields.io/badge/-React-3178C6?style=flat-square&logo=React&logoColor=white" />&nbsp
   </div>
    <div>
     <bold>Back End: </bold>
-    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/-NestJS-000000?style=flat-square&logo=NestJS&logoColor=EA2758" />&nbsp
-    
   </div>
   </div>
 </div>
