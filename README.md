@@ -4,8 +4,8 @@
   <a href="https://github.com/SungSeokMin/harness-template"><img src="https://img.shields.io/badge/Claude_Code-harness--template-D97757?style=flat-square&logo=claude&logoColor=white" alt="harness-template" /></a>
 </p>
 
-프론트엔드 3년 6개월 뒤, 1년 4개월 동안 **백엔드와 운영 어드민을 혼자 맡아 서비스 3개를 앱스토어·플레이스토어에 출시**했습니다.
-혼자서도 속도와 품질을 지킬 수 있었던 건 **Claude Code로 개발 과정 자체를 설계**했기 때문입니다.
+프론트엔드 3년 6개월, 백엔드 1년 4개월. **서비스 3개를 혼자 맡아 앱스토어·플레이스토어에 출시**했습니다.
+**Claude Code로 계획·리뷰·테스트를 자동화**해, 혼자서도 팀처럼 개발합니다.
 
 ## 🚀 Shipped
 
@@ -13,13 +13,13 @@
 <tr>
 <td width="50%" valign="top">
 
-**🍽️ 위브닝** <sub>Full-Stack</sub><br />
+**🍽️ 위브닝** <sub>Full-Stack · 2026.05 – 2026.09</sub><br />
 낯선 사람들을 저녁 식탁으로 잇는 소셜 다이닝
 <br /><a href="https://apps.apple.com/kr/app/id6778737553"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="App Store" /></a> <a href="https://play.google.com/store/apps/details?id=com.pulsenode.wevening"><img src="https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play" /></a>
 </td>
 <td width="50%" valign="top">
 
-**📚 아이리딩** <sub>Back-End</sub><br />
+**📚 아이리딩** <sub>Back-End · 2025.11 – 현재</sub><br />
 독서 습관과 진도를 기록하는 독서 관리 서비스
 <br /><a href="https://apps.apple.com/kr/app/id6758334207"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="App Store" /></a> <a href="https://play.google.com/store/apps/details?id=io.ireading.ireading"><img src="https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play" /></a>
 </td>
@@ -27,13 +27,13 @@
 <tr>
 <td width="50%" valign="top">
 
-**🚚 Push** <sub>Back-End</sub><br />
+**🚚 Push** <sub>Back-End · 2025.05 – 2025.09</sub><br />
 푸드트럭 사장님과 손님을 잇는 예약·결제 서비스
 
 </td>
 <td width="50%" valign="top">
 
-**🖥️ 빌리오** <sub>Front-End</sub><br />
+**🖥️ 빌리오** <sub>Front-End · 2021.11 – 2025.05</sub><br />
 공간 호스트의 예약·정산을 돕는 B2B 서비스
 
 </td>
