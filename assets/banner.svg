@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="220" viewBox="0 0 880 220" role="img" aria-label="성석민 — AI 풀스택 개발자">
+  <style>
+    .bg { fill: #ffffff; }
+    .grid { stroke: #0f172a; stroke-opacity: .05; }
+    .name { fill: #0f172a; }
+    .role { fill: #4f46e5; }
+    .desc { fill: #475569; }
+    .chip { fill: #eef2ff; stroke: #c7d2fe; }
+    .chipt { fill: #4338ca; }
+    .dot { fill: #22c55e; }
+    @media (prefers-color-scheme: dark) {
+      .bg { fill: #0d1117; }
+      .grid { stroke: #ffffff; stroke-opacity: .05; }
+      .name { fill: #f0f6fc; }
+      .role { fill: #a5b4fc; }
+      .desc { fill: #9198a1; }
+      .chip { fill: #1e1b4b; stroke: #3730a3; }
+      .chipt { fill: #c7d2fe; }
+    }
+    text { font-family: -apple-system, BlinkMacSystemFont, "Pretendard", "Apple SD Gothic Neo", "Noto Sans KR", "Segoe UI", sans-serif; }
+    .pulse { animation: pulse 2s ease-in-out infinite; }
+    @keyframes pulse { 0%,100% { opacity: 1 } 50% { opacity: .35 } }
+  </style>
+  <defs>
+    <pattern id="g" width="22" height="22" patternUnits="userSpaceOnUse">
+      <path d="M22 0H0V22" fill="none" class="grid"/>
+    </pattern>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#6366f1" stop-opacity=".28"/>
+      <stop offset=".55" stop-color="#06b6d4" stop-opacity=".10"/>
+      <stop offset="1" stop-color="#06b6d4" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect class="bg" width="880" height="220" rx="16"/>
+  <rect fill="url(#g)" width="880" height="220" rx="16"/>
+  <circle cx="760" cy="60" r="220" fill="url(#glow)"/>
+
+  <text x="48" y="74" class="role" font-size="17" font-weight="600" letter-spacing=".5">AI FULL-STACK DEVELOPER</text>
+  <text x="48" y="122" class="name" font-size="42" font-weight="800">성석민</text>
+  <text x="48" y="156" class="desc" font-size="17">서비스를 만들고, 출시하고, 운영하며 계속 바꿉니다.</text>
+
+  <g transform="translate(48 176)">
+    <rect class="chip" width="124" height="26" rx="13"/>
+    <circle class="dot pulse" cx="16" cy="13" r="4"/>
+    <text x="28" y="18" class="chipt" font-size="12.5" font-weight="600">Open to work</text>
+    <rect class="chip" x="134" width="170" height="26" rx="13"/>
+    <text x="150" y="18" class="chipt" font-size="12.5" font-weight="600">Claude Code 파이프라인</text>
+  </g>
+</svg>
