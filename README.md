@@ -27,7 +27,7 @@
 <tr>
 <td width="50%" valign="top">
 
-**🚚 Push** <sub>Back-End · 2025.05 ~ 2025.09</sub><br />
+**🚚 Push** <sub>Back-End · Side Project · 2025.05 ~ 2025.09</sub><br />
 푸드트럭 사장님과 손님을 잇는 예약·결제 서비스
 
 </td>
