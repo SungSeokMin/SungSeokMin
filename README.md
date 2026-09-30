@@ -19,7 +19,7 @@
 </td>
 <td width="50%" valign="top">
 
-**📚 아이리딩** <sub>Back-End · 2025.11 ~ 현재</sub><br />
+**📚 아이리딩** <sub>Back-End · Side Project · 운영 중</sub><br />
 독서 습관과 진도를 기록하는 독서 관리 서비스
 <br /><a href="https://apps.apple.com/kr/app/id6758334207"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="App Store" /></a> <a href="https://play.google.com/store/apps/details?id=io.ireading.ireading"><img src="https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play" /></a>
 </td>
