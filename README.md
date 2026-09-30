@@ -18,6 +18,8 @@
 
 `API 110` `테스트 1,610` `커버리지 95.8%`
 
+<a href="https://apps.apple.com/kr/app/id6778737553"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="App Store" /></a> <a href="https://play.google.com/store/apps/details?id=com.pulsenode.wevening"><img src="https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play" /></a>
+
 </td>
 <td width="50%" valign="top">
 
@@ -26,12 +28,14 @@
 
 `등록 2분 → 20초` `테스트 스펙 6 → 30`
 
+<a href="https://apps.apple.com/kr/app/id6758334207"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="App Store" /></a> <a href="https://play.google.com/store/apps/details?id=io.ireading.ireading"><img src="https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play" /></a>
+
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🚚 Push** <sub>푸드트럭 예약·결제 · 2025</sub><br />
+**🚚 Push** <sub>푸드트럭 예약·결제 · 2025 · 2026.06까지 운영</sub><br />
 예약 → 결제 → 환불 라이프사이클을 트랜잭션 인터셉터로 설계
 
 `API 76` `사용자·사장님 앱 2개를 한 서버로`
