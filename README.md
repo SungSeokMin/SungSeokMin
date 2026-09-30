@@ -4,7 +4,7 @@
   <a href="https://github.com/SungSeokMin/harness-template"><img src="https://img.shields.io/badge/Claude_Code-harness--template-D97757?style=flat-square&logo=claude&logoColor=white" alt="harness-template" /></a>
 </p>
 
-프론트엔드 3년 6개월, 백엔드 1년 4개월. **서비스 3개를 혼자 맡아 앱스토어·플레이스토어에 출시**했습니다.
+프론트엔드 3년 6개월, 백엔드 1년 4개월. **서비스 3개를 혼자 맡아 앱스토어·플레이스토어에 출시**했습니다.<br/>
 **Claude Code로 계획·리뷰·테스트를 자동화**해, 빠르게 출시하면서도 품질을 지킵니다.
 
 ## 🚀 Shipped
@@ -27,7 +27,7 @@
 <tr>
 <td width="50%" valign="top">
 
-**🚚 Push** <sub>Back-End · Side Project · 2025.05 ~ 2025.09</sub><br />
+**🚚 Push** <sub>Back-End · Side Project · 운영 중단</sub><br />
 푸드트럭 사장님과 손님을 잇는 예약·결제 서비스
 
 </td>
