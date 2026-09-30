@@ -7,46 +7,34 @@
 프론트엔드 3년 6개월 뒤, 1년 4개월 동안 **백엔드와 운영 어드민을 혼자 맡아 서비스 3개를 앱스토어·플레이스토어에 출시**했습니다.
 혼자서도 속도와 품질을 지킬 수 있었던 건 **Claude Code로 개발 과정 자체를 설계**했기 때문입니다.
 
-## ⚡ Highlights
+## 🚀 Shipped
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🍽️ 위브닝** <sub>소셜 다이닝 · 2026</sub><br />
-백엔드 전체와 운영자 어드민 웹을 혼자 개발해 스토어 출시, Apple/Google 인앱결제 전환
-
-`API 110` `테스트 1,610` `커버리지 95.8%`
-
-<a href="https://apps.apple.com/kr/app/id6778737553"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="App Store" /></a> <a href="https://play.google.com/store/apps/details?id=com.pulsenode.wevening"><img src="https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play" /></a>
-
+**🍽️ 위브닝** <sub>Full-Stack</sub><br />
+낯선 사람들을 저녁 식탁으로 잇는 소셜 다이닝
+<br /><a href="https://apps.apple.com/kr/app/id6778737553"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="App Store" /></a> <a href="https://play.google.com/store/apps/details?id=com.pulsenode.wevening"><img src="https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play" /></a>
 </td>
 <td width="50%" valign="top">
 
-**📚 아이리딩** <sub>독서 기록 B2B · 2025–</sub><br />
-백엔드 전체 단독 개발, 대량 도서 등록의 N+1 제거
-
-`등록 2분 → 20초` `테스트 스펙 6 → 30`
-
-<a href="https://apps.apple.com/kr/app/id6758334207"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="App Store" /></a> <a href="https://play.google.com/store/apps/details?id=io.ireading.ireading"><img src="https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play" /></a>
-
+**📚 아이리딩** <sub>Back-End</sub><br />
+독서 습관과 진도를 기록하는 독서 관리 서비스
+<br /><a href="https://apps.apple.com/kr/app/id6758334207"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="App Store" /></a> <a href="https://play.google.com/store/apps/details?id=io.ireading.ireading"><img src="https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play" /></a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🚚 Push** <sub>푸드트럭 예약·결제 · 2025 · 2026.06까지 운영</sub><br />
-예약 → 결제 → 환불 라이프사이클을 트랜잭션 인터셉터로 설계
-
-`API 76` `사용자·사장님 앱 2개를 한 서버로`
+**🚚 Push** <sub>Back-End</sub><br />
+푸드트럭 사장님과 손님을 잇는 예약·결제 서비스
 
 </td>
 <td width="50%" valign="top">
 
-**🖥️ 빌리오** <sub>공간 예약 B2B · 2021–2025</sub><br />
-프론트엔드 3년 6개월, API 스펙을 먼저 합의하는 프로세스 정착
-
-`모바일 유저 +40%` `MAU +20%`
+**🖥️ 빌리오** <sub>Front-End</sub><br />
+공간 호스트의 예약·정산을 돕는 B2B 서비스
 
 </td>
 </tr>
@@ -66,7 +54,18 @@
 
 ## 🛠 Stack
 
-<img src="https://skillicons.dev/icons?i=ts,nestjs,nodejs,prisma,postgres,mysql,react,nextjs,vite,tailwind,aws,docker,githubactions,jest&perline=14" alt="TypeScript, NestJS, Node.js, Prisma, PostgreSQL, MySQL, React, Next.js, Vite, Tailwind CSS, AWS, Docker, GitHub Actions, Jest" />
+<p>
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" height="48" />
+  <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" title="NestJS" height="48" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" height="48" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" height="48" />
+  <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" title="Prisma" height="48" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" height="48" />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" height="48" />
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS" height="48" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" height="48" />
+  <img src="./assets/claude.svg" alt="Claude" title="Claude Code" height="48" />
+</p>
 
 **Domain** · 예약·결제·정산 · Apple/Google 인앱결제 · 실시간 채팅(Socket.IO) · 푸시(FCM) · 동시성 제어
 
