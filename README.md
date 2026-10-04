@@ -1,4 +1,4 @@
-<img src="./assets/banner.svg" alt="성석민 — AI 풀스택 개발자" width="100%" />
+<img src="./assets/banner.svg" alt="성석민, AI Full-Stack Developer. How I build with AI: plan, critique, approve, implement, review. 계획을 먼저 공격하고, 훅으로 강제합니다." width="100%" />
 
 <p>
   <a href="https://github.com/SungSeokMin/harness-template"><img src="https://img.shields.io/badge/Claude_Code-harness--template-D97757?style=flat-square&logo=claude&logoColor=white" alt="harness-template" /></a>
@@ -41,17 +41,6 @@
 </td>
 </tr>
 </table>
-
-## 🤖 How I build with AI
-
-AI가 쓴 코드도 사람이 쓴 코드처럼 검증을 거치도록, 에이전트마다 역할을 나누고 사람이 승인하는 지점을 정해 두었습니다.
-
-> `plan` → `critique` → 👤 `approve` → `implement` → `review`
-
-- **계획을 먼저 공격** — 구현 전에 비판 에이전트가 계획의 빈틈을 찾고, 사람이 승인해야 구현이 시작됨
-- **훅으로 강제** — 파일을 고치면 관련 테스트가 바로 돌고, 전체 테스트가 통과하기 전엔 작업이 끝나지 않음
-- **결과** — 위브닝에서 PR당 변경 파일 **−31%**, 주당 머지 PR **+28%**
-- 이 구성을 누구나 쓸 수 있게 템플릿으로 공개했습니다 → [**harness-template**](https://github.com/SungSeokMin/harness-template)
 
 ## 🛠 Stack
 
