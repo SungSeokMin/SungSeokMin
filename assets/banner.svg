@@ -1,49 +1,56 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="220" viewBox="0 0 880 220" role="img" aria-label="성석민 — AI 풀스택 개발자">
-  <style>
-    .bg { fill: #ffffff; }
-    .grid { stroke: #0f172a; stroke-opacity: .05; }
-    .name { fill: #0f172a; }
-    .role { fill: #4f46e5; }
-    .desc { fill: #475569; }
-    .chip { fill: #eef2ff; stroke: #c7d2fe; }
-    .chipt { fill: #4338ca; }
-    .dot { fill: #22c55e; }
-    @media (prefers-color-scheme: dark) {
-      .bg { fill: #0d1117; }
-      .grid { stroke: #ffffff; stroke-opacity: .05; }
-      .name { fill: #f0f6fc; }
-      .role { fill: #a5b4fc; }
-      .desc { fill: #9198a1; }
-      .chip { fill: #1e1b4b; stroke: #3730a3; }
-      .chipt { fill: #c7d2fe; }
-    }
-    text { font-family: -apple-system, BlinkMacSystemFont, "Pretendard", "Apple SD Gothic Neo", "Noto Sans KR", "Segoe UI", sans-serif; }
-    .pulse { animation: pulse 2s ease-in-out infinite; }
-    @keyframes pulse { 0%,100% { opacity: 1 } 50% { opacity: .35 } }
-  </style>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="성석민 — AI Full-Stack Developer">
   <defs>
-    <pattern id="g" width="22" height="22" patternUnits="userSpaceOnUse">
-      <path d="M22 0H0V22" fill="none" class="grid"/>
-    </pattern>
-    <radialGradient id="glow">
-      <stop offset="0" stop-color="#6366f1" stop-opacity=".28"/>
-      <stop offset=".55" stop-color="#06b6d4" stop-opacity=".10"/>
-      <stop offset="1" stop-color="#06b6d4" stop-opacity="0"/>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#D97757" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#7C5CFF" stop-opacity=".25"/>
+    </linearGradient>
+    <radialGradient id="orb" cx=".85" cy=".1" r=".6">
+      <stop offset="0" stop-color="#7C5CFF" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#7C5CFF" stop-opacity="0"/>
     </radialGradient>
+    <clipPath id="type"><rect x="70" y="118" width="0" height="30"><animate attributeName="width" from="0" to="720" dur="2.2s" begin=".3s" fill="freeze"/></rect></clipPath>
   </defs>
-  <rect class="bg" width="880" height="220" rx="16"/>
-  <rect fill="url(#g)" width="880" height="220" rx="16"/>
-  <circle cx="760" cy="60" r="220" fill="url(#glow)"/>
+  <style>
+    text{font-family:'SF Mono','JetBrains Mono',Menlo,Consolas,'Apple SD Gothic Neo','Noto Sans KR',monospace}
+    .dim{fill:#8b949e}.fg{fill:#e6edf3}.ok{fill:#3fb950}.ac{fill:#D97757}
+    .step{opacity:0}.step{animation:in .4s forwards}
+    @keyframes in{to{opacity:1}}
+    .cur{animation:blink 1s steps(1) infinite}@keyframes blink{50%{opacity:0}}
+  </style>
+  <rect width="1200" height="400" rx="20" fill="#0d1117"/>
+  <rect width="1200" height="400" rx="20" fill="url(#orb)"/>
+  <rect x=".5" y=".5" width="1199" height="399" rx="20" fill="none" stroke="url(#glow)"/>
 
-  <text x="48" y="74" class="role" font-size="17" font-weight="600" letter-spacing=".5">AI FULL-STACK DEVELOPER</text>
-  <text x="48" y="122" class="name" font-size="42" font-weight="800">성석민</text>
-  <text x="48" y="156" class="desc" font-size="17">서비스를 만들고, 출시하고, 운영하며 계속 바꿉니다.</text>
+  <!-- title bar -->
+  <circle cx="44" cy="42" r="7" fill="#ff5f56"/><circle cx="68" cy="42" r="7" fill="#ffbd2e"/><circle cx="92" cy="42" r="7" fill="#27c93f"/>
+  <text x="600" y="47" text-anchor="middle" font-size="14" class="dim">AI FULL-STACK DEVELOPER</text>
 
-  <g transform="translate(48 176)">
-    <rect class="chip" width="124" height="26" rx="13"/>
-    <circle class="dot pulse" cx="16" cy="13" r="4"/>
-    <text x="28" y="18" class="chipt" font-size="12.5" font-weight="600">Open to work</text>
-    <rect class="chip" x="134" width="170" height="26" rx="13"/>
-    <text x="150" y="18" class="chipt" font-size="12.5" font-weight="600">Claude Code 파이프라인</text>
+  <!-- prompt -->
+  <text x="44" y="140" font-size="22" class="ac">$</text>
+  <g clip-path="url(#type)"><text x="70" y="140" font-size="22" class="fg">claude "서비스를 만들고, 출시하고, 운영하며 계속 바꿉니다."</text></g>
+
+  <!-- pipeline -->
+  <g font-size="18">
+    <text x="70" y="185" class="step" style="animation-delay:2.6s"><tspan class="ok">✓</tspan> <tspan class="fg">plan</tspan></text>
+    <text x="170" y="185" class="step" style="animation-delay:3.0s"><tspan class="ok">✓</tspan> <tspan class="fg">critique</tspan></text>
+    <text x="305" y="185" class="step" style="animation-delay:3.4s"><tspan class="ac">👤</tspan> <tspan class="fg">approve</tspan></text>
+    <text x="440" y="185" class="step" style="animation-delay:3.8s"><tspan class="ok">✓</tspan> <tspan class="fg">implement</tspan></text>
+    <text x="600" y="185" class="step" style="animation-delay:4.2s"><tspan class="ok">✓</tspan> <tspan class="fg">review</tspan><tspan class="ac cur"> ▍</tspan></text>
+  </g>
+
+  <!-- name -->
+  <text x="44" y="272" font-size="56" font-weight="700" class="fg" style="font-family:'Pretendard','Apple SD Gothic Neo','Noto Sans KR',sans-serif">성석민</text>
+  <text x="228" y="270" font-size="18" letter-spacing="3" class="ac">PRODUCT ENGINEER</text>
+
+  <!-- bento chips -->
+  <g font-size="16">
+    <rect x="44" y="305" width="230" height="56" rx="14" fill="#161b22" stroke="#30363d"/>
+    <text x="64" y="330" class="dim" font-size="12">EXPERIENCE</text><text x="64" y="351" class="fg" font-weight="700">FE 3.5y · BE 1.4y</text>
+    <rect x="290" y="305" width="300" height="56" rx="14" fill="#161b22" stroke="#30363d"/>
+    <text x="310" y="330" class="dim" font-size="12">CORE</text><text x="310" y="351" class="fg" font-weight="700">TypeScript · NestJS · React</text>
+    <rect x="606" y="305" width="230" height="56" rx="14" fill="#161b22" stroke="#30363d"/>
+    <text x="626" y="330" class="dim" font-size="12">WORKS BY</text><text x="626" y="351" class="fg" font-weight="700">설계 → 출시 → 운영</text>
+    <rect x="852" y="305" width="200" height="56" rx="14" fill="#161b22" stroke="#30363d"/>
+    <text x="872" y="330" class="dim" font-size="12">TOOLS</text><text x="872" y="351" class="fg" font-weight="700">Claude Code</text>
   </g>
 </svg>
